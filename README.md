@@ -46,6 +46,9 @@ Lookin in `aurelia.json` for this bit
 
 ## Some info
 
+
+https://ilikekillnerds.com/2016/02/the-definitive-guide-to-bundling-exporting-in-aurelia/
+
 http://stackoverflow.com/questions/39475791/how-to-exclude-files-from-bundling-in-aurelia-json
 
 ### too much

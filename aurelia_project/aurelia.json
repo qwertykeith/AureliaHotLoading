@@ -97,7 +97,13 @@
         "source": [
           "[**/elements/bbb/**/*.js]",
           "**/elements/bbb/**/*.html"
-        ]
+        ],
+        "options": {
+          "inject": true,
+          "minify": true,
+          "depCache": true,
+          "rev": true
+        }
       },
       {
         "name": "vendor-bundle.js",
