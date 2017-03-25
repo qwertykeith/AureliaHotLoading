@@ -48,6 +48,10 @@ Lookin in `aurelia.json` for this bit
 
 http://stackoverflow.com/questions/39475791/how-to-exclude-files-from-bundling-in-aurelia-json
 
+### too much
+
+http://blog.aurelia.io/2015/09/11/bundling-aurelia-apps/
+
 ## Globbing patterns
 
 https://gruntjs.com/configuring-tasks#globbing-patterns
